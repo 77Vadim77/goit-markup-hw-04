@@ -582,7 +582,7 @@ button {
     row-gap: 48px;
 }
 
-.portfolio-flex-item {
+.portfolio-flex-item{
     width: calc((100% - 48px )/3);
 }
 .portfolio-flex-item:hover {
